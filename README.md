@@ -1,5 +1,10 @@
 About the repository
+
+
 This is a Practice repository.
+
+
+
 This includes the following –
 1.	Images
 2.	Issues
