@@ -11,4 +11,4 @@ This includes the following –
 6.	Release, and 
 7.	Discussion
 
-Discussion about what we are doing can be done there. Also, we can add Labels for it. We can set Category for the discussion.
+Discussion about what we are doing can be done there. Also, we can add Labels for it. We can set Category for that discussion.
