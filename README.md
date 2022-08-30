@@ -1,4 +1,4 @@
-About the repository
+About the repository                                    ![image](https://user-images.githubusercontent.com/110473966/187351672-099e2b0b-c18a-4a2c-90d2-9a78fdc61475.png)
 
 This is a Practice repository.
 
